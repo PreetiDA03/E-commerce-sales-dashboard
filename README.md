@@ -31,3 +31,6 @@ This E-Commerce Sales Dashboard provides an overview of sales, profit, quantity,
 - Power Query → Data cleaning and transformation
 - DAX (Data Analysis Expressions) → Calculated columns, measures, and KPIs
 - Data Modeling → Relationships between tables for better insights
+
+## Dashboard Demo:
+- ** https://github.com/PreetiDA03/E-commerce-sales-dashboard/blob/main/Sales%20Dashboard.PNG
