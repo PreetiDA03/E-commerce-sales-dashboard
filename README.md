@@ -3,7 +3,7 @@
 ## Project Title
 E-Commerce Sales Performance Overview
 
-## Short Description / Porpose
+## Short Description / Purpose:
 This E-Commerce Sales Dashboard provides an overview of sales, profit, quantity, and customer behavior across states, categories, and payment modes. It highlights key trends, top contributors, and monthly performance.To track business performance, identify sales and profit drivers, understand customer and product insights, and support data-driven decision-making.
 
 ## Key Highlights:
@@ -25,7 +25,7 @@ This E-Commerce Sales Dashboard provides an overview of sales, profit, quantity,
 - Interactivity:
     - Filter options for Quarterly (Q1–Q4) and other slicers allow dynamic exploration of data trends.
 
-## Tech Stack
+## Tech Stack:
 - Power BI → Data visualization and dashboard creation
 - Excel / CSV → Data source and preprocessing
 - Power Query → Data cleaning and transformation
@@ -33,4 +33,4 @@ This E-Commerce Sales Dashboard provides an overview of sales, profit, quantity,
 - Data Modeling → Relationships between tables for better insights
 
 ## Dashboard Demo:
-- ** https://github.com/PreetiDA03/E-commerce-sales-dashboard/blob/main/Sales%20Dashboard.PNG
+![Alt text](https://github.com/PreetiDA03/E-commerce-sales-dashboard/blob/main/Sales%20Dashboard.PNG)
